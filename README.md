@@ -46,3 +46,7 @@ git switch -
 4. go to main branch first : git checkout main or use GUI
 5. git merge new_feature // your mush delete new_feature because not the last version files
 6. git -d new_feature
+
+========how to clone ==============
+1. git clone <repoo> EX. git clone https://github.com/phearom922/git-learning.git
+2. 
