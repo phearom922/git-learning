@@ -42,4 +42,6 @@ git switch -
 2. git branch new_feature // create new branch ==> branch name : new_feature
 3. git checkout new_feature // go to work on branch new_feature 
    // if your want go back to main branch use <git checkout main>
-4. 
+** if you approval all new_feature and get out to marge with main brand
+4. go to main branch first : git checkout main or use GUI
+5. git merge new_feature
