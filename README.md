@@ -12,14 +12,14 @@
    git commit -a -m "first commit" // Save all ករណីមិនមានការបង្កើត file ថែមទៀចូលក្នុង Project របស់យើង តែមានការកែប្រែ File ណាមួយក្នុង Project របស់យើង
 9. git log // show person save and modify projects // show one line use ==> git log --oneline
 
-//============back to old version=============
+//=========back to old version==========
 git checkout <commit id>
 
-//==========go to last version===============
+//====go to last version==========
 git switch -
 
 
-//==============first Upload to GitHub=============
+//===first Upload to GitHub==========
 1. git branch -M main
 2. git remote add origin <តើយើងចង់ដាក់ចូលទៅក្នុង Repoo របស់យើងមួយណា Ex. git remote add origin https://github.com/phearom922/git-learning.git>
 3. git push -u origin main // use this line first upload files to your github
@@ -52,3 +52,7 @@ git switch -
 2. git pull // for check other dev modify file
 3. if code of dev2 is the last so we push on dev2
 4. git push // code has bee update in sever github
+
+==============how to use .gitignore ==============
+1. in create file .gitignore
+2. in file .gitignore // write the name file or extension file < Ex. *.tex or node_module/ >
