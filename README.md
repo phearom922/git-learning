@@ -3,14 +3,13 @@
 2. git config --global user.email "ronphearom2540@gmail.com"
 
 3. git config --global -l // check error
-4. git status
-5. git init
-6. git status
+4. git init
+5. git status
 // ================ករណីមានការកែប្រែ files ត្រូវចាប់ផ្តើមពីចំនុចទី 7 ទៅ===============
-7. git add . // add all files in projects
-8. git commit -m "first commit" // Save all ករណីមានការបង្កើត file ថែមទៀចូលក្នុង Project របស់យើង
+6. git add . // add all files in projects
+7. git commit -m "first commit" // Save all ករណីមានការបង្កើត file ថែមទៀចូលក្នុង Project របស់យើង
    git commit -a -m "first commit" // Save all ករណីមិនមានការបង្កើត file ថែមទៀចូលក្នុង Project របស់យើង តែមានការកែប្រែ File ណាមួយក្នុង Project របស់យើង
-9. git log // show person save and modify projects // show one line use ==> git log --oneline
+8. git log // show person save and modify projects // show one line use ==> git log --oneline
 
 //=========back to old version==========
 git checkout <commit id>
