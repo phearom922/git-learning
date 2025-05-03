@@ -28,3 +28,6 @@ git switch -
 1. git commit -m "first commit" // Save all ករណីមានការបង្កើត file ថែមទៀចូលក្នុង Project របស់យើង
    git commit -a -m "first commit" // Save all ករណីមិនមានការបង្កើត file ថែមទៀចូលក្នុង Project របស់យើង តែមានការកែប្រែ File
 2. git push
+
+
+//=========how to use gui ============
