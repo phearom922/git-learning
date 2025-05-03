@@ -38,3 +38,8 @@ git switch -
 7. click push ==> End
 
 //=============how to branch============= for test new feature
+1. git branch // check branch for sure the work on what branch name < EX. * main  // now your work in branch name : * main  >
+2. git branch new_feature // create new branch ==> branch name : new_feature
+3. git checkout new_feature // go to work on branch new_feature 
+   // if your want go back to main branch use <git checkout main>
+4. 
