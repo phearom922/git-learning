@@ -25,3 +25,6 @@ git switch -
 3. git push -u origin main // use this line first upload files to your github
 
 //==============Second Upload to GitHub after modify ready =============
+1. git commit -m "first commit" // Save all ករណីមានការបង្កើត file ថែមទៀចូលក្នុង Project របស់យើង
+   git commit -a -m "first commit" // Save all ករណីមិនមានការបង្កើត file ថែមទៀចូលក្នុង Project របស់យើង តែមានការកែប្រែ File
+2. git push
