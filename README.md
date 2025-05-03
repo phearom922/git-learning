@@ -31,3 +31,8 @@ git switch -
 
 
 //=========how to use gui ============
+1. click sours control
+2. write the input message commit
+4. click commit
+5. click more action
+7. click push ==> End
