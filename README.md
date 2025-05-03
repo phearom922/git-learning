@@ -49,4 +49,6 @@ git switch -
 
 ========how to clone ==============
 1. git clone <repoo> EX. git clone https://github.com/phearom922/git-learning.git
-2. 
+2. git pull // for check other dev modify file
+3. if code of dev2 is the last so we push on dev2
+4. git push // code has bee update in sever github
