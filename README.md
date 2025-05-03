@@ -17,3 +17,10 @@ git checkout <commit id>
 
 //==========go to last version===============
 git switch -
+
+
+//==============Upload to GitHub=============
+1. git branch -M main
+2. git remote add origin <តើយើងចង់ដាក់ចូលទៅក្នុង Repoo របស់យើងមួយណា Ex. git remote add origin https://github.com/phearom922/git-learning.git>
+3. git push -u origin main // use this line first upload files to your github
+
