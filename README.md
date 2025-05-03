@@ -45,4 +45,4 @@ git switch -
 ** if you approval all new_feature and get out to marge with main brand
 4. go to main branch first : git checkout main or use GUI
 5. git merge new_feature // your mush delete new_feature because not the last version files
-6. git -d new feature
+6. git -d new_feature
